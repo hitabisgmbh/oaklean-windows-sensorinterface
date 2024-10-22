@@ -1,0 +1,32 @@
+name: build
+
+on:
+  push:
+    tags:
+      - 'v*'
+
+jobs:
+  build:
+    runs-on: windows-2022
+
+    steps:
+    - uses: actions/checkout@v4
+    
+    - name: Setup .NET
+      uses: actions/setup-dotnet@v4
+      with:
+        dotnet-version: 8.0.x  
+        
+    - name: Restore dependencies
+      run: dotnet restore
+      
+    - name: Publish_x64
+      run: dotnet publish OakleanWindowsSensorInterface/OakleanWindowsSensorInterface.csproj -p:PublishSingleFile=true --self-contained true --configuration release --framework net8.0 --runtime win-x64 --output bin/Release/x64
+   
+    - name: Packaging_x64
+      uses: actions/upload-artifact@v4
+      with:
+        name: OakleanWindowsSensorInterface_x64
+        path: |
+          bin/Release/x64
+      
