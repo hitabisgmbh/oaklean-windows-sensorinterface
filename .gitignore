@@ -405,3 +405,6 @@ ASALocalRun/
 # Local History for Visual Studio
 .localhistory/
 
+input_folder
+plugin_folder
+packages.lock.json

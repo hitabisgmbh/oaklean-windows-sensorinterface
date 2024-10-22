@@ -23,7 +23,6 @@ internal class Program
         await host.RunAsync();
     }
 
-
     #region Private Methods
 
     private static string GetFileName(string[] args)
