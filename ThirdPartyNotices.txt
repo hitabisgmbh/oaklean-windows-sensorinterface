@@ -1,0 +1,190 @@
+Oaklean-Windows-SensorInterface
+*******************************
+
+THIRD-PARTY SOFTWARE NOTICES AND INFORMATION
+
+LibreHardwareMonitorLib (https://www.nuget.org/packages/LibreHardwareMonitorLib/0.9.3)
+    Authors: LibreHardwareMonitorLib
+    Copyright: LibreHardwareMonitor
+    License: Mozilla Public License 2.0, full text can be found at https://spdx.org/licenses/MPL-2.0 or in Licenses/MPL-2.0-license.txt
+
+Microsoft.Extensions.Configuration (https://www.nuget.org/packages/Microsoft.Extensions.Configuration/8.0.0)
+    Authors: Microsoft
+    Copyright: © Microsoft Corporation. All rights reserved.
+    License: MIT License, full text can be found at https://spdx.org/licenses/MIT or in Licenses/MIT-license.txt
+
+Microsoft.Extensions.Configuration.Abstractions (https://www.nuget.org/packages/Microsoft.Extensions.Configuration.Abstractions/8.0.0)
+    Authors: Microsoft
+    Copyright: © Microsoft Corporation. All rights reserved.
+    License: MIT License, full text can be found at https://spdx.org/licenses/MIT or in Licenses/MIT-license.txt
+
+Microsoft.Extensions.Configuration.Binder (https://www.nuget.org/packages/Microsoft.Extensions.Configuration.Binder/8.0.2)
+    Authors: Microsoft
+    Copyright: © Microsoft Corporation. All rights reserved.
+    License: MIT License, full text can be found at https://spdx.org/licenses/MIT or in Licenses/MIT-license.txt
+
+Microsoft.Extensions.Configuration.CommandLine (https://www.nuget.org/packages/Microsoft.Extensions.Configuration.CommandLine/8.0.0)
+    Authors: Microsoft
+    Copyright: © Microsoft Corporation. All rights reserved.
+    License: MIT License, full text can be found at https://spdx.org/licenses/MIT or in Licenses/MIT-license.txt
+
+Microsoft.Extensions.Configuration.EnvironmentVariables (https://www.nuget.org/packages/Microsoft.Extensions.Configuration.EnvironmentVariables/8.0.0)
+    Authors: Microsoft
+    Copyright: © Microsoft Corporation. All rights reserved.
+    License: MIT License, full text can be found at https://spdx.org/licenses/MIT or in Licenses/MIT-license.txt
+
+Microsoft.Extensions.Configuration.FileExtensions (https://www.nuget.org/packages/Microsoft.Extensions.Configuration.FileExtensions/8.0.1)
+    Authors: Microsoft
+    Copyright: © Microsoft Corporation. All rights reserved.
+    License: MIT License, full text can be found at https://spdx.org/licenses/MIT or in Licenses/MIT-license.txt
+
+Microsoft.Extensions.Configuration.Json (https://www.nuget.org/packages/Microsoft.Extensions.Configuration.Json/8.0.1)
+    Authors: Microsoft
+    Copyright: © Microsoft Corporation. All rights reserved.
+    License: MIT License, full text can be found at https://spdx.org/licenses/MIT or in Licenses/MIT-license.txt
+
+Microsoft.Extensions.Configuration.UserSecrets (https://www.nuget.org/packages/Microsoft.Extensions.Configuration.UserSecrets/8.0.1)
+    Authors: Microsoft
+    Copyright: © Microsoft Corporation. All rights reserved.
+    License: MIT License, full text can be found at https://spdx.org/licenses/MIT or in Licenses/MIT-license.txt
+
+Microsoft.Extensions.DependencyInjection (https://www.nuget.org/packages/Microsoft.Extensions.DependencyInjection/8.0.1)
+    Authors: Microsoft
+    Copyright: © Microsoft Corporation. All rights reserved.
+    License: MIT License, full text can be found at https://spdx.org/licenses/MIT or in Licenses/MIT-license.txt
+
+Microsoft.Extensions.DependencyInjection.Abstractions (https://www.nuget.org/packages/Microsoft.Extensions.DependencyInjection.Abstractions/8.0.2)
+    Authors: Microsoft
+    Copyright: © Microsoft Corporation. All rights reserved.
+    License: MIT License, full text can be found at https://spdx.org/licenses/MIT or in Licenses/MIT-license.txt
+
+Microsoft.Extensions.Diagnostics (https://www.nuget.org/packages/Microsoft.Extensions.Diagnostics/8.0.1)
+    Authors: Microsoft
+    Copyright: © Microsoft Corporation. All rights reserved.
+    License: MIT License, full text can be found at https://spdx.org/licenses/MIT or in Licenses/MIT-license.txt
+
+Microsoft.Extensions.Diagnostics.Abstractions (https://www.nuget.org/packages/Microsoft.Extensions.Diagnostics.Abstractions/8.0.1)
+    Authors: Microsoft
+    Copyright: © Microsoft Corporation. All rights reserved.
+    License: MIT License, full text can be found at https://spdx.org/licenses/MIT or in Licenses/MIT-license.txt
+
+Microsoft.Extensions.FileProviders.Abstractions (https://www.nuget.org/packages/Microsoft.Extensions.FileProviders.Abstractions/8.0.0)
+    Authors: Microsoft
+    Copyright: © Microsoft Corporation. All rights reserved.
+    License: MIT License, full text can be found at https://spdx.org/licenses/MIT or in Licenses/MIT-license.txt
+
+Microsoft.Extensions.FileProviders.Physical (https://www.nuget.org/packages/Microsoft.Extensions.FileProviders.Physical/8.0.0)
+    Authors: Microsoft
+    Copyright: © Microsoft Corporation. All rights reserved.
+    License: MIT License, full text can be found at https://spdx.org/licenses/MIT or in Licenses/MIT-license.txt
+
+Microsoft.Extensions.FileSystemGlobbing (https://www.nuget.org/packages/Microsoft.Extensions.FileSystemGlobbing/8.0.0)
+    Authors: Microsoft
+    Copyright: © Microsoft Corporation. All rights reserved.
+    License: MIT License, full text can be found at https://spdx.org/licenses/MIT or in Licenses/MIT-license.txt
+
+Microsoft.Extensions.Hosting (https://www.nuget.org/packages/Microsoft.Extensions.Hosting/8.0.1)
+    Authors: Microsoft
+    Copyright: © Microsoft Corporation. All rights reserved.
+    License: MIT License, full text can be found at https://spdx.org/licenses/MIT or in Licenses/MIT-license.txt
+
+Microsoft.Extensions.Hosting.Abstractions (https://www.nuget.org/packages/Microsoft.Extensions.Hosting.Abstractions/8.0.1)
+    Authors: Microsoft
+    Copyright: © Microsoft Corporation. All rights reserved.
+    License: MIT License, full text can be found at https://spdx.org/licenses/MIT or in Licenses/MIT-license.txt
+
+Microsoft.Extensions.Logging (https://www.nuget.org/packages/Microsoft.Extensions.Logging/8.0.1)
+    Authors: Microsoft
+    Copyright: © Microsoft Corporation. All rights reserved.
+    License: MIT License, full text can be found at https://spdx.org/licenses/MIT or in Licenses/MIT-license.txt
+
+Microsoft.Extensions.Logging.Abstractions (https://www.nuget.org/packages/Microsoft.Extensions.Logging.Abstractions/8.0.2)
+    Authors: Microsoft
+    Copyright: © Microsoft Corporation. All rights reserved.
+    License: MIT License, full text can be found at https://spdx.org/licenses/MIT or in Licenses/MIT-license.txt
+
+Microsoft.Extensions.Logging.Configuration (https://www.nuget.org/packages/Microsoft.Extensions.Logging.Configuration/8.0.1)
+    Authors: Microsoft
+    Copyright: © Microsoft Corporation. All rights reserved.
+    License: MIT License, full text can be found at https://spdx.org/licenses/MIT or in Licenses/MIT-license.txt
+
+Microsoft.Extensions.Logging.Console (https://www.nuget.org/packages/Microsoft.Extensions.Logging.Console/8.0.1)
+    Authors: Microsoft
+    Copyright: © Microsoft Corporation. All rights reserved.
+    License: MIT License, full text can be found at https://spdx.org/licenses/MIT or in Licenses/MIT-license.txt
+
+Microsoft.Extensions.Logging.Debug (https://www.nuget.org/packages/Microsoft.Extensions.Logging.Debug/8.0.1)
+    Authors: Microsoft
+    Copyright: © Microsoft Corporation. All rights reserved.
+    License: MIT License, full text can be found at https://spdx.org/licenses/MIT or in Licenses/MIT-license.txt
+
+Microsoft.Extensions.Logging.EventLog (https://www.nuget.org/packages/Microsoft.Extensions.Logging.EventLog/8.0.1)
+    Authors: Microsoft
+    Copyright: © Microsoft Corporation. All rights reserved.
+    License: MIT License, full text can be found at https://spdx.org/licenses/MIT or in Licenses/MIT-license.txt
+
+Microsoft.Extensions.Logging.EventSource (https://www.nuget.org/packages/Microsoft.Extensions.Logging.EventSource/8.0.1)
+    Authors: Microsoft
+    Copyright: © Microsoft Corporation. All rights reserved.
+    License: MIT License, full text can be found at https://spdx.org/licenses/MIT or in Licenses/MIT-license.txt
+
+Microsoft.Extensions.Options (https://www.nuget.org/packages/Microsoft.Extensions.Options/8.0.2)
+    Authors: Microsoft
+    Copyright: © Microsoft Corporation. All rights reserved.
+    License: MIT License, full text can be found at https://spdx.org/licenses/MIT or in Licenses/MIT-license.txt
+
+Microsoft.Extensions.Options.ConfigurationExtensions (https://www.nuget.org/packages/Microsoft.Extensions.Options.ConfigurationExtensions/8.0.0)
+    Authors: Microsoft
+    Copyright: © Microsoft Corporation. All rights reserved.
+    License: MIT License, full text can be found at https://spdx.org/licenses/MIT or in Licenses/MIT-license.txt
+
+Microsoft.Extensions.Primitives (https://www.nuget.org/packages/Microsoft.Extensions.Primitives/8.0.0)
+    Authors: Microsoft
+    Copyright: © Microsoft Corporation. All rights reserved.
+    License: MIT License, full text can be found at https://spdx.org/licenses/MIT or in Licenses/MIT-license.txt
+
+Microsoft.NET.ILLink.Tasks (https://www.nuget.org/packages/Microsoft.NET.ILLink.Tasks/8.0.5)
+    Authors: Microsoft
+    Copyright: © Microsoft Corporation. All rights reserved.
+    License: MIT License, full text can be found at https://spdx.org/licenses/MIT or in Licenses/MIT-license.txt
+
+Microsoft.Win32.Registry (https://www.nuget.org/packages/Microsoft.Win32.Registry/5.0.0)
+    Authors: Microsoft
+    Copyright: © Microsoft Corporation. All rights reserved.
+    License: MIT License, full text can be found at https://spdx.org/licenses/MIT or in Licenses/MIT-license.txt
+
+System.CodeDom (https://www.nuget.org/packages/System.CodeDom/8.0.0)
+    Authors: Microsoft
+    Copyright: © Microsoft Corporation. All rights reserved.
+    License: MIT License, full text can be found at https://spdx.org/licenses/MIT or in Licenses/MIT-license.txt
+
+System.Diagnostics.EventLog (https://www.nuget.org/packages/System.Diagnostics.EventLog/8.0.1)
+    Authors: Microsoft
+    Copyright: © Microsoft Corporation. All rights reserved.
+    License: MIT License, full text can be found at https://spdx.org/licenses/MIT or in Licenses/MIT-license.txt
+
+System.IO.FileSystem.AccessControl (https://www.nuget.org/packages/System.IO.FileSystem.AccessControl/5.0.0)
+    Authors: Microsoft
+    Copyright: © Microsoft Corporation. All rights reserved.
+    License: MIT License, full text can be found at https://spdx.org/licenses/MIT or in Licenses/MIT-license.txt
+
+System.IO.Ports (https://www.nuget.org/packages/System.IO.Ports/8.0.0)
+    Authors: Microsoft
+    Copyright: © Microsoft Corporation. All rights reserved.
+    License: MIT License, full text can be found at https://spdx.org/licenses/MIT or in Licenses/MIT-license.txt
+
+System.Management (https://www.nuget.org/packages/System.Management/8.0.0)
+    Authors: Microsoft
+    Copyright: © Microsoft Corporation. All rights reserved.
+    License: MIT License, full text can be found at https://spdx.org/licenses/MIT or in Licenses/MIT-license.txt
+
+System.Security.AccessControl (https://www.nuget.org/packages/System.Security.AccessControl/5.0.0)
+    Authors: Microsoft
+    Copyright: © Microsoft Corporation. All rights reserved.
+    License: MIT License, full text can be found at https://spdx.org/licenses/MIT or in Licenses/MIT-license.txt
+
+System.Security.Principal.Windows (https://www.nuget.org/packages/System.Security.Principal.Windows/5.0.0)
+    Authors: Microsoft
+    Copyright: © Microsoft Corporation. All rights reserved.
+    License: MIT License, full text can be found at https://spdx.org/licenses/MIT or in Licenses/MIT-license.txt
+
