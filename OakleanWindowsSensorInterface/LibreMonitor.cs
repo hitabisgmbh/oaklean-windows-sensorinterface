@@ -11,6 +11,7 @@ public class LibreMonitor : IDisposable
     private readonly StreamWriter _writer;
     private bool _disposed;
     private bool _stopped;
+    private bool _firstTime = true;
 
     public LibreMonitor(string filePath)
     {
@@ -72,10 +73,18 @@ public class LibreMonitor : IDisposable
             }
         }
 
+        var elapsedMilliseconds = _stopWatch.ElapsedMilliseconds;
+
+        if (_firstTime)
+        {
+            Console.WriteLine($"BEGIN_MEASUREMENT {elapsedMilliseconds}");
+            _firstTime = false;
+        }
+
 #if DEBUG
-        Console.WriteLine("{0}|{1}", _stopWatch.ElapsedMilliseconds, string.Join("|", _valueList));
+        Console.WriteLine("{0}|{1}", elapsedMilliseconds, string.Join("|", _valueList));
 #endif
-        _writer.WriteLine("{0}|{1}", _stopWatch.ElapsedMilliseconds, string.Join("|", _valueList));
+        _writer.WriteLine("{0}|{1}", elapsedMilliseconds, string.Join("|", _valueList));
     }
 
     #region IDisposable
