@@ -15,8 +15,11 @@ A .Net binary that provides energy measurements for the [Oaklean](https://github
   Open the solution in Visual Studio and build the project using the build options (Build > Build Solution or press Ctrl+Shift+B).
 
 ## Usage
-.\OakleanWindowsSensorInterface.exe samplerate=100 filename=outfile.csv
+```
+> .\OakleanWindowsSensorInterface.exe samplerate=100 filename=outfile.csv
 
-Options:\
+Options:
+
 samplerate: The time interval between measurements, in microseconds.\
 filename: The name of the file where measurements will be saved.
+```
