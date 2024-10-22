@@ -1,6 +1,6 @@
 # Oaklean-Windows-SensorInterface
 
-A .Net binary that provides energy measurements for the [Oaklean](https://github.com/hitabisgmbh/oaklean) library. This binary can be installed in Node.js via the [@oaklean/windows-sensorinterface](https://github.com/hitabisgmbh/oaklean/tree/main/packages/windows-sensorinterface).
+A .NET binary that provides energy measurements for the [Oaklean](https://github.com/hitabisgmbh/oaklean) library. This binary can be installed in Node.js via the [@oaklean/windows-sensorinterface](https://github.com/hitabisgmbh/oaklean/tree/main/packages/windows-sensorinterface).
 
 ## Development
 ### Prerequisites
